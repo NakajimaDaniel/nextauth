@@ -1,4 +1,5 @@
+import { setupApiClient } from "./api";
 
-import {setupApiClient} from './api'
+
 
 export const api = setupApiClient();
